@@ -1,0 +1,6 @@
+#N canvas 445 358 3440 1357 12;
+#X obj 19 19 inlet;
+#X obj 95 359 outlet~;
+#X obj 158 22 inlet;
+#X text 73 19 voice;
+#X text 204 18 freq;
