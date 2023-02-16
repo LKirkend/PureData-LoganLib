@@ -1,6 +1,0 @@
-#N canvas 32 32 1920 976 12;
-#X obj 119 100 bng 100 250 50 0 empty empty Kick 21 50 0 25 #03008e
-#c6feff #ffffff;
-#X obj 100 100 vradio 20 1 0 5 empty empty empty 0 -8 0 10 #131255
-#c6feff #000000 0;
-#X coords 0 -1 1 1 120 100 2 100 100;

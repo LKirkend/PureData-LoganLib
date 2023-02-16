@@ -27,6 +27,8 @@
 #X obj 131 44 f \$2;
 #X obj 172 44 f \$3;
 #X obj 213 45 f \$4;
+#X obj 195 -30 inlet;
+#X obj 195 -6 unpack f f f f;
 #X connect 0 0 8 0;
 #X connect 1 0 24 0;
 #X connect 1 0 25 0;
@@ -53,3 +55,8 @@
 #X connect 25 0 4 0;
 #X connect 26 0 2 0;
 #X connect 27 0 5 0;
+#X connect 28 0 29 0;
+#X connect 29 0 24 0;
+#X connect 29 1 25 0;
+#X connect 29 2 26 0;
+#X connect 29 3 27 0;

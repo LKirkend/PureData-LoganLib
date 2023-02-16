@@ -1,3 +1,2 @@
-#N canvas 1354 320 3440 1357 12;
-#X obj 199 105 vum;
-#X obj 144 328 sampleplay;
+#N canvas -4 70 1920 958 12;
+#X obj 54 20 sequencer;

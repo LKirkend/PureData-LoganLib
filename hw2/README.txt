@@ -1,0 +1,5 @@
+This is a drum sample sequencer, the interface is located within main.pd.
+The controls are listed on the top right, D E (Kick) F R (Snare) and G T (Hi-Hat).
+Each channel has 5 different samples implemented, which can be changed by clicking on a box to the left of the main sample buttons. You can adjust the duration, pitch, pan, and ASR of each sample. The ASR is proportional to the duration. 
+To edit the sequence, click on the cyan boxes, and when you press play, it will play the sample on the beat in which you select. These are imagined as eighth notes, so the BPM you select is specifcally in quarter notes. 
+For the sequences I included, they do not include the settings I used. The settings and sample choices do not save. Mess around with the feel of each channel to get it to where you want it.
