@@ -1,4 +1,4 @@
-#N canvas 1283 174 450 300 12;
+#N canvas 674 183 3440 1357 12;
 #X obj 27 41 loadbang;
-#X obj 27 65 outlet;
+#X obj 29 184 outlet;
 #X connect 0 0 1 0;
