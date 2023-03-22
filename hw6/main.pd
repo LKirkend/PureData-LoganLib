@@ -1,0 +1,2 @@
+#N canvas 26 26 3440 1357 12;
+#X obj 20 15 reader;
